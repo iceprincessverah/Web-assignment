@@ -1,0 +1,5 @@
+// Get the body element
+var body = document.getElementsByTagName("body")[0];
+
+// Set the background color to red
+body.style.backgroundColor = "green";
